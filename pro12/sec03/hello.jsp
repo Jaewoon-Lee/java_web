@@ -14,6 +14,9 @@
 </head>
 <body>
 	<h1>안녕하세요 <%=name %>님!!</h1>
-	<h1>나이는 <%=age %>살 입니다!!</h1>
+	<h1>나이 : <%= age %></h1>
+	<h1>10년후 나이 : <%=Integer.parseInt(age)+10 %></h1>
 </body>
 </html>
+
+<%-- jsp 주석문  <!-- html 주석문 --!>  --%>
