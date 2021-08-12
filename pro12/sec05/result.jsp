@@ -15,7 +15,7 @@
 		if (id == null || id.length() == 0) {
 	%>
 	아이디를 입력하세요<br>
-	<a href="/pro11/login.html">로그인하기</a>
+	<a href="/pro12/login.html">로그인하기</a>
 	<%} else if(id.equals("admin")) { %>
 	<h1>관리자 화면</h1>
 	<form>
