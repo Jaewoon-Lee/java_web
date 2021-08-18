@@ -40,3 +40,4 @@ public class MemberController1 extends HttpServlet {
 		dispatch.forward(request,  response);	
 	}
 }
+ 
