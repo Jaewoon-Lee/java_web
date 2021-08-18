@@ -55,4 +55,4 @@ public class MemberVO {
 		this.joinDate = joinDate;
 	}
 	
-}
+} 
