@@ -23,4 +23,4 @@
 	<% //out 내장 객체 사용 %>
 	<h1><% out.println(name+","+age); %></h1>
 </body>
-</html>
+</html> 
